@@ -1,6 +1,5 @@
-# chess
-chess python
+# chess python
 
-![Image alt](https://github.com/AleksandrVeremeyev/chess/blob/main/pygame_chess.png)
+![pygame_chess](https://github.com/AleksandrVeremeyev/chess/blob/main/pygame_chess.png)
 
-python3.13 main.py
+Запуск: python3.13 main.py
